@@ -2,6 +2,25 @@
 
 ### Goal: Display data returned from an api
 
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+Using the fundamentals
+
+
+## Optimizations
+*(optional)*
+
+
+
+## Lessons Learned:
+
+
+
+
+README structure partially used from alec-chernicki
+
 ### How to submit your code for review:
 
 - Fork and clone this repo
