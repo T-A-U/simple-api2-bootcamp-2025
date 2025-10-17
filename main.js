@@ -8,9 +8,8 @@ function answerQuestion(){
     .then(res => res.json()) // parse response as JSON
     .then(data => {
     console.log(data)
-           
             
-             document.querySelector('p').innerText=data.answer
+             document.querySelector('h3').innerText=data.answer
              document.querySelector('img').src=data.image
             
 

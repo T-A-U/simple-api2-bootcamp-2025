@@ -1,5 +1,8 @@
 # 📊 Project: Simple API 2
+To see this project live:
 
+https://eclectic-treacle-e81afa.netlify.app/
+ 
 ### Goal: Display data returned from an api
 
 
